@@ -12,12 +12,9 @@ int main()
    {
     carpim=carpim*i;
 
-     
     printf("%d! = %.0lf\n",i,carpim);
       i++;
-
    }
-
 
     return 0;
 }
