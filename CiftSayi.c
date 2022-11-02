@@ -15,6 +15,6 @@ int main()
        }
      }
      printf("\n0 sayisindan %d sayisina kadar olan cift sayilarin toplami : %d",sayi,toplam);
-   
+ 
     return 0;
 }
