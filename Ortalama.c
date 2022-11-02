@@ -16,7 +16,6 @@ int main()
    sayac = sayac + 1;
    toplam=toplam+not;
   } 
-  
    
    ortalama=toplam/ogrenciSayisi;
   
