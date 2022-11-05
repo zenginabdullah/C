@@ -5,7 +5,6 @@ int main()
   printf("4 basamakli ve rakamlari farkli bir sayi gir : ");
   scanf("%d",&sayi);
 
-  
  if(999<sayi&&sayi<10000)
 {
   bas1=sayi%10;
